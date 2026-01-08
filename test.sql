@@ -25,5 +25,5 @@ SET age = 19
 WHERE username = 'azamat';
 
 -- delete underage users
-DELETE FROM users
-WHERE age < 18;
+-- DELETE FROM users
+-- WHERE age < 18;
